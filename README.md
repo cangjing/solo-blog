@@ -10,7 +10,18 @@
 
 ### 最新
 
-* [世界，你好！](https://www.zluqyf.top/hello-solo)
+* [VeryNginx基于waf规则实验](https://www.zluqyf.top/articles/2019/12/09/1575879279940.html)
+* [VeryNginx配置篇](https://www.zluqyf.top/articles/2019/12/09/1575878688946.html)
+* [VeryNginx搭建篇](https://www.zluqyf.top/articles/2019/12/09/1575878470272.html)
+* [Lnmp环境搭建zabbix4.0](https://www.zluqyf.top/articles/2019/12/09/1575877759555.html)
+* [Linux 上的命令行回收站工具](https://www.zluqyf.top/articles/2019/12/09/1575876434189.html)
+* [tomcat通过redis实现session共享](https://www.zluqyf.top/articles/2019/12/09/1575875950856.html)
+* [Linux基础之用户管理](https://www.zluqyf.top/articles/2019/12/08/1575810292135.html)
+* [Linux基础之crond计划任务](https://www.zluqyf.top/articles/2019/12/08/1575809733745.html)
+* [Linux基础之软件包管理](https://www.zluqyf.top/articles/2019/12/08/1575805950313.html)
+* [Linux基础之打包压缩](https://www.zluqyf.top/articles/2019/12/08/1575798995205.html)
+* [Linux基础之磁盘管理](https://www.zluqyf.top/articles/2019/12/08/1575798872963.html)
+* [Linux基础之find查找](https://www.zluqyf.top/articles/2019/12/08/1575794641796.html)
 
 
 
