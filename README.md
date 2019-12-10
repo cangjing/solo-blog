@@ -1,4 +1,4 @@
-<p align="center"><img alt="夕立良辰" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="夕立良辰" src="https://www.zluqyf.top/skins/emiya/images/caicai.jpg"></p><h2 align="center">
 夕立良辰
 </h2>
 
@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [关于我](https://www.zluqyf.top/articles/2019/12/10/1575954752158.html)
 * [VeryNginx基于waf规则实验](https://www.zluqyf.top/articles/2019/12/09/1575879279940.html)
 * [VeryNginx配置篇](https://www.zluqyf.top/articles/2019/12/09/1575878688946.html)
 * [VeryNginx搭建篇](https://www.zluqyf.top/articles/2019/12/09/1575878470272.html)
